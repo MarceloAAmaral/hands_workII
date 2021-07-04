@@ -1,0 +1,8 @@
+body{font-size: 10pt;}
+h2{font-size:150%}
+.bt-menu span{font-size:70%}
+#eventos .container .item{width:90%;margin: 10% auto; padding: 2%;min-height: 320px}
+#header [data-icon='menu']:before{font-size: 250%}
+article{padding: 10%;}
+form .item{width: 90%}
+footer nav a{margin: 0 0 0 10%}

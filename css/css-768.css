@@ -1,0 +1,4 @@
+body{font-size: 12pt;}
+#eventos .container{display: block}
+#eventos .container .item{width:45%;}
+#eventos .link a{font-size: 200%}
